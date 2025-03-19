@@ -1,4 +1,5 @@
 # osu-stable! Localisation Auto-Replacer 1.3 🧐
+# Outdated!
 🇬🇧 Tired of reinstalling localisation every time you update osu!? Look no further!
 
 🇺🇦 Набридло перевстановлювати локалізацію щоразу після оновлення osu!? Тоді вам сюди!
